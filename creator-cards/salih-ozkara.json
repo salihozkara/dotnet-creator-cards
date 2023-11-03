@@ -1,0 +1,25 @@
+{
+  "name": "Salih Ozkara",
+  "type": "CREATOR",
+  "tags": ".NET, C#, ASP.NET, ABP Framework",
+  "github": "https://github.com/salihozkara",
+  "channels": [
+    {
+        "name": "ABP Community",
+        "url": "https://community.abp.io/members/salih"
+      }
+  ],
+  "feeds": [
+    {
+      "type": "dotnet",
+      "url": "https://community.abp.io/rss?member=salih"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ABP Framework",
+      "description": "Open Source Web Application Framework for ASP.NET Core",
+      "url": "https://github.com/abpframework/abp"
+    }
+  ]
+}
